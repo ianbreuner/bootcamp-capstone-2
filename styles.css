@@ -1,0 +1,38 @@
+/* Fonts */
+
+.noto-serif {
+    font-family: "Noto Serif JP", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .quicksand {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+#Navbar > div {
+    border-bottom: 1px solid;
+}
+
+.projectcards {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+}
+
+.contactinfo {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+
+#Resume > .container {
+    padding-top: 40px;
+}
+
+.aboutMeCar {
+    margin-bottom: 100px;
+}
