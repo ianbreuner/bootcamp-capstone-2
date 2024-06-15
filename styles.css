@@ -36,3 +36,8 @@
 .aboutMeCar {
     margin-bottom: 100px;
 }
+
+.footer {
+    display: flex;
+    align-items: center;
+}
